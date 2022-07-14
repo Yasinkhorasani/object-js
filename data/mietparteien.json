@@ -1,0 +1,26 @@
+[
+    {
+        "vname": "Maria",
+        "nname": "Musterfrau",
+        "wnr": 3,
+        "km": 478
+    },
+    {
+        "vname": "Beate",
+        "nname": "Beispiel",
+        "wnr": 4,
+        "km": 418
+    },
+    {
+        "vname": "Erich",
+        "nname": "Exempel",
+        "wnr": 2,
+        "km": 670
+    },
+    {
+        "vname": "Dagmar",
+        "nname": "Dosenbrot",
+        "wnr": 1,
+        "km": 700
+    }
+]

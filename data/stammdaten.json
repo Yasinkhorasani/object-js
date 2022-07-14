@@ -1,0 +1,20 @@
+{
+    "adresse": {
+        "id": 1,
+        "strasse": "Mustergasse",
+        "hnr": "37 1/3",
+        "plz": "01234",
+        "ort": "Beispielbüttel"
+    },
+    "eigentuemer": {
+        "vname": "Thomas",
+        "nname": "Schulz",
+        "adresse": {
+            "id": 2,
+            "strasse": "Schlossallee",
+            "hnr": "1",
+            "plz": "01235",
+            "ort": "Nachbarstadt"
+        }
+    }
+}
